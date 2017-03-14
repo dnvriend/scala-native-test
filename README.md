@@ -1,5 +1,5 @@
 # scala-native-test
-A small study project on scala-native.
+A small study project on [scala-native](http://www.scala-native.org/en/latest/index.html).
 
 ## How to use
 You build the project using:
